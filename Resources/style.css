@@ -12,6 +12,9 @@ h1 {
   font-size: 18px;
   color: white;
   background-image: url("./Imagenes/Fondo.png");
+  background-size: 100%;
+  background-size: cover;
+  background-position: center;
 }
 
 h2 {
@@ -49,6 +52,5 @@ a {
 a:hover {
   color: white;
 }
-a:active{
-  color: white;
+
 }
